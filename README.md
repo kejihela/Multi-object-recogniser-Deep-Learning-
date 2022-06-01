@@ -3,11 +3,8 @@ A deep learning project built to classify four(4) different means of transportat
 Two models were built and compared to determine the effect of layers in terms of performance and training time. The first model has  548,516 while the other contains 1,605,860 trainable parameters.
 
 ![Bus1](https://user-images.githubusercontent.com/72225471/171467327-9a9716e5-3ade-4734-9334-403858f30173.jpg)
-
 ![Motorcycle9](https://user-images.githubusercontent.com/72225471/171467411-3f7d41a2-47a3-4b5f-940e-8a5838637195.jpg)
-
 ![AirPlane10](https://user-images.githubusercontent.com/72225471/171467497-cd3a91d4-3f24-409e-8154-07004b3a5cb3.jpg)
-
 ![Train4](https://user-images.githubusercontent.com/72225471/171467570-acd5518d-4331-4bd8-ad4f-fdf79b4f10c1.jpg)
 
 
