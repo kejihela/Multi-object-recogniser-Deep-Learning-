@@ -18,7 +18,6 @@ Two models were built and compared to determine the effect of layers in terms of
 **Model :two: :atom_symbol:**
 
 ![model2](https://user-images.githubusercontent.com/72225471/171448149-68cfc6d5-e00c-4690-a62b-afbeb5f03ec1.png)
-
 **Training and validation loss 2️⃣**
 ![training_and_validation2](https://user-images.githubusercontent.com/72225471/171448177-8624840c-ae74-4814-a44c-86bd52871b53.png)
 
