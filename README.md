@@ -1,5 +1,6 @@
 # Multi-object-recogniser-Deep-Learning-
-A deep learning project built to classify four(4) different means of transportation which are Bus(road), Plane(air), Train(rail) and  Motorcycle(road)
+A deep learning project built to classify four(4) different means of transportation which are Bus(road), Plane(air), Train(rail) and  Motorcycle(road).
+Two models were built and compared to determine the effect of layers in terms of performance and training time. The first model has  548,516 while the other contains 1,605,860 trainable parameters.
 
 ![Bus1](https://user-images.githubusercontent.com/72225471/171467327-9a9716e5-3ade-4734-9334-403858f30173.jpg)
 
