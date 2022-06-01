@@ -22,4 +22,10 @@ Two models were built and compared to determine the effect of layers in terms of
 
 ![training_and_validation2](https://user-images.githubusercontent.com/72225471/171448177-8624840c-ae74-4814-a44c-86bd52871b53.png)
 
+**ATTEMPTED QUESTIONS**
+1. How long does the network need to train until reaching an accuracy of 95%?
+2. What is the tradeoff between using many layers (i.e. having a “deeper” network) and
+accuracy? And layers and time?
+3. What is the effect of changing the pooling mechanism, e.g. average vs max?
+
 
